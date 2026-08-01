@@ -1,0 +1,51 @@
+merhaba:سلام
+nasılsın?:چطوری؟
+teşekkür ederim:متشکرم
+ben:من
+sen:تو
+o:او
+biz:ما
+siz:شما
+onlar:آنها
+günaydın:صبح بخیر
+iyi günler:روز بخیر
+iyi akşamlar:عصر بخیر
+iyi geceler:شب بخیر
+hoşça kal:خداحافظ
+ne haber?:چه خبر؟
+iyiyim:خوبم
+adın ne?:اسمت چیست؟
+benim adım ...:اسم من ... است
+nerelisin?:اهل کجایی؟
+Türkiye'den geliyorum:من از ترکیه آمده‌ام
+Farsça öğreniyorum:فارسی یاد می‌گیرم
+anlamıyorum:نمی‌فهمم
+tekrar eder misin?:دوباره می‌گویی؟
+lütfen:لطفا
+evet:بله
+hayır:نه
+belki:شاید
+çok güzel:خیلی خوب
+ne kadar?:چقدر؟
+kaç para?:قیمت چند است؟
+çok pahalı:خیلی گران است
+ucuz:ارزان
+yardım eder misin?:کمک می‌کنی؟
+tabii ki:حتما
+ne zaman?:کی؟
+bugün:امروز
+yarın:فردا
+dün:دیروز
+hafta:هفته
+ay:ماه
+yıl:سال
+aşk:عشق
+arkadaş:دوست
+aile:خانواده
+ev:خانه
+okul:مدرسه
+iş:کار
+su:آب
+ekmek:نان
+çay:چای
+kahve:قهوه

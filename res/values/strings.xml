@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="program_name">Foreign Verbs &amp; Words</string>
+    <string name="github_hint">GPL v3 - https://github.com/muratsivas76/Foreign-Language-Sentences-and-Verb-Conjugations</string>
+    
+    <!-- Main Screen -->
+    <string name="verbsStr">Verbs</string>
+    <string name="tensesStr">Tenses</string>
+    <string name="enterTimeStr">Enter delay seconds (1-10):</string>
+    <string name="waitingTimeStr">Waiting Time:</string>
+    <string name="mscStr">ms</string>
+    
+    <!-- Buttons -->
+    <string name="button_time">Time</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_exit">Exit</string>
+    
+    <!-- Dialog -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    
+    <!-- Errors -->
+    <string name="error_empty_file">Empty file!</string>
+    <string name="error_no_words">No words found in otherlang directory!</string>
+    <string name="error_file_not_found">File not found!</string>
+    <string name="error_io_exception">IO Error!</string>
+</resources>
